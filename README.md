@@ -8,6 +8,9 @@ The page includes:
 
 Perfect for beginners learning basic web development.
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+
+<img width="1899" height="922" alt="image" src="https://github.com/user-attachments/assets/374d20a9-cc9c-4b32-bac8-37c10081ed6d" />
+<img width="1902" height="921" alt="image-1" src="https://github.com/user-attachments/assets/3c30e879-f1d9-48ea-9a0a-b3de79208743" />
+<img width="1013" height="408" alt="image-2" src="https://github.com/user-attachments/assets/8d663234-e98a-44a5-baac-94705c726cf1" />
+
+
