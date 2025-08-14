@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Falcon Café</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>The Falcon Café</h1>
+        <p class="welcome">Welcome to The Falcon Café! </p>
+        <p class="welcome">Relax and enjoy your drink.</p>
+    </header>
+
+    <div>
+        <div class="menu">
+            <h2>Our Drinks Menu</h2>
+            <ul>
+                <li>Latte: 50 EGP</li>
+                <li>Tea: 20 EGP</li>
+                <li>Espresso: 100 EGP</li>
+                <li>Iced Coffe: 30 EGP</li>
+                <li>Fresh Orange Juice: 60 EGP</li>
+                <li>Strawberry Smoothie: 50 EGP</li>
+            </ul> 
+        <div class="menu">
+            <h2>Our Desserts Menu</h2>
+            <ul>
+                    <li>Cheesecake: 60 EGP</li>
+                    <li>Pancakes: 120 EGP</li>
+                    <li>Waffles: 100 EGP</li>
+                    <li>Chocolate Brownie: 80 EGP</li>
+                    <li>Ice Cream Sundae: 30 EGP</li>
+                    <li>Fruit Tart: 90 EGP</li>
+            </ul>
+        </div>
+    </div>
+
+        <div class="feedback">
+            <h2>Give us Your Feedback To improve The Servise, Please</h2>
+            <form onsubmit="showMessage(event)">
+                <textarea placeholder="Write your feedback..." required></textarea><br>
+                <button type="submit">Click Here, Please</button>
+            </form>
+            <p id="thankYouMsg" style="display:none;">Thank you for your feedback!</p>
+        </div>
+
+    <footer>
+        <p>We wish you a lovely day ☕🍰</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
